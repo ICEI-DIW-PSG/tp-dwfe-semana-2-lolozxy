@@ -2,13 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Lorrayne Rocha
+Matricula: 909362
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![Tela de inspecao](imagens/inspecao.png)
 
 
 ## Orientações sobre Linguagem MarkDown
