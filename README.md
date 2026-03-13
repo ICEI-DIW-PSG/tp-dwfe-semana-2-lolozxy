@@ -7,7 +7,7 @@ Matricula: 909362
 
 ## Tela de inspeção com navegador
 
-![Tela de inspecao](imagens/inspecao.png)
+![Tela de inspecao](images/inspecao.png)
 
 
 ## Orientações sobre Linguagem MarkDown
