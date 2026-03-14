@@ -9,7 +9,7 @@ Matricula: 909362
 
 ![Tela de inspecao](images/inspecao.png)
 
-![print site](images/print site.png)
+![print site](images/print.png)
 
 ## Orientações sobre Linguagem MarkDown
 
